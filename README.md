@@ -136,6 +136,7 @@ Add screenshots of:
 1. Birthday Guess Calculator page.
 2. Page with user input.
 3. Result page showing the guessed birthday.
+   ![Birthday Guess Calculator](1.png)
 
 ## GitHub Repository Name
 
