@@ -140,7 +140,7 @@ Add screenshots of:
 
 ## GitHub Repository Name
 
-`dimple`
+2442958_BirthdayGuessCalculator
 
 ## About
 
